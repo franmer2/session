@@ -18,7 +18,7 @@ Ci-dessous une fin de session de Microsoft Purview :
 
 # Microsoft Fabric
 
-1.	Connectez-vous avec un compte global admin sur le site du centre d'administration d'office 365. (https://admin.microsoft.com/)
+1.	Connectez-vous avec un compte **Global admin** sur le site du centre d'administration d'office 365. (https://admin.microsoft.com/)
 2.	Dans les menus à gauche de l’écran, cliquez sur « **Settings** », puis sur « **Org settings** ». ![image](Images/002.png)
 
 
