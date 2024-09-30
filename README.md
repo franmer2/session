@@ -7,9 +7,8 @@ Il se peut que dans le cadre d’un déploiement de Microsoft Purview ou Microso
 3.	Cliquez sur « Signing out + notifications »
 4.	Dans la rubrique « Signing out », cochez la case « Enable directory level idle timeout » puis définissez le délai avant la fermeture de session.
 
-![image](Images\001.png)
+![image](Images/001.png)
 
 # Microsoft Fabric
 
 
-[def]: Images
