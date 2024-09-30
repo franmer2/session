@@ -2,7 +2,7 @@ Il se peut que dans le cadre d’un déploiement de Microsoft Purview ou Microso
 
 # Microsoft Purview
 
-1.	Avec un compte Global Admin, connectez-vous au portail Azure (https://portal.azure.com).
+1.	Avec un compte **Global Admin**, connectez-vous au portail Azure (https://portal.azure.com).
 2.	Cliquez sur l’engrenage en haut à droite de l’écran.
 3.	Cliquez sur « **Signing out + notifications** ».
 4.	Dans la rubrique « **Signing out** », cochez la case « **Enable directory level idle timeout** » puis définissez le délai avant la fermeture de session.
