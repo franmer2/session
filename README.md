@@ -9,3 +9,7 @@ Il se peut que dans le cadre d’un déploiement de Microsoft Purview ou Microso
 
 ![image](Images\001.png)
 
+# Microsoft Fabric
+
+
+[def]: Images
