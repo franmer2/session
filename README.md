@@ -25,7 +25,7 @@ Ci-dessous une fin de session de Microsoft Purview :
 3.	En haut de l’écran, cliquez sur l’onglet « **Security & privacy** », puis sur « **Idle session timeout** ».![image](Images/003.png)
 
 
-4.	Dans le panneau qui s’afficher alors sur la droite, cochez la case « **Turn on to set the period of inactivity to users to be signed off of Microsoft 365 web apps** ». Puis définissez le délai avant la fin de session.![image](Images/004.png)
+4.	Dans le panneau qui s’affiche alors sur la droite, cochez la case « **Turn on to set the period of inactivity to users to be signed off of Microsoft 365 web apps** ». Puis définissez le délai avant la fin de session.![image](Images/004.png)
 
 5. **Attention !!** Le paramètre peut prendre plusieurs heures pour s'appliquer à l'ensemble de vos utilisateurs 
 
